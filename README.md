@@ -1,4 +1,8 @@
-# Ignite Challenge React JS 01
+# DESAFIO 01 TRILHA REACT JS - IGNITE
 
-Desafio de manipulação de estados com o aplicativo de TO-DO da trilha de React Js
-do bootcamp IGNITE concluido com sucesso!
+## ESTADOS COM useSTATE
+
+Finalizado com sucesso o desafio 01 da trilha de react JS do bootcamp ignite promovido pela Rocketseat!! <3
+
+
+Foi elaborado uma interface em react js com manipulação de estados, uma aplicação de todos, onde o usuário pode adicionar, remover e marcar uma tarefa como feita.
